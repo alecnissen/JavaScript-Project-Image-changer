@@ -1,0 +1,20 @@
+#container {
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.bulb-off {
+    width: 500px;
+    height: 700px;
+    background: url('images/lightbulb-off.jpg');
+    margin: auto;
+}
+
+.bulb-on {
+    width: 500px;
+    height: 700px;
+    background: url('images/lightbulb-on.jpg');
+    margin: auto;
+}
